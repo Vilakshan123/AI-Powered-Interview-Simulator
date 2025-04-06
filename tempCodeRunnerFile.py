@@ -1,0 +1,1 @@
+get_text_from_resume
