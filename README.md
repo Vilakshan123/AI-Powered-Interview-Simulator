@@ -14,7 +14,21 @@
 - **Streamlit UI**: User-friendly interface for mock interviews.  
 
 ---
+## 📸 Screenshots  
 
+### Resume Upload & Parsing  
+![Resume Upload](docs/images/resume_upload.png)  
+*Figure 1: Upload a PDF resume to start the interview.*  
+
+### Adaptive Question Generation  
+![Question Generation](docs/images/question_generation.png)  
+*Figure 2: AI generates context-aware questions based on resume content.*  
+
+### Answer Submission & Scoring  
+![Answer Scoring](docs/images/answer_scoring.png)  
+*Figure 3: Candidate receives a score after submitting their response.*  
+
+---
 ## 🛠️ Tech Stack  
 - **Backend**: Python, LangChain, OpenAI API  
 - **PDF Parsing**: PyMuPDF, Camelot  
