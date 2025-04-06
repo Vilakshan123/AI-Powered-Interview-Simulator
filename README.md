@@ -52,4 +52,4 @@
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Vilakshan123/AI-Powered-Interview-Simulator.git
-   cd GenAI-Virtual-Interviewer-POC
+   cd AI-Powered-Interview-Simulator
