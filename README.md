@@ -32,5 +32,5 @@
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/<your-username>/GenAI-Virtual-Interviewer-POC.git](https://github.com/Vilakshan123/AI-Powered-Interview-Simulator.git)
+   git clone https://github.com/Vilakshan123/AI-Powered-Interview-Simulator.git
    cd GenAI-Virtual-Interviewer-POC
