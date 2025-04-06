@@ -11,7 +11,12 @@
 - **Resume Parsing**: Extract text and tables from PDF resumes.  
 - **Adaptive Interviewing**: Context-aware questions using RAG and GPT-3.5-turbo.  
 - **AI Scoring**: LLM-as-a-judge evaluates responses on a scale of 1–10.  
-- **Streamlit UI**: User-friendly interface for mock interviews.  
+- **Streamlit UI**: User-friendly interface for mock interviews.
+
+## ⬇️ Install dependencies:
+``` bash
+    pip install -r requirements.txt
+```
 
 ---
 ## 📸 Screenshots  
