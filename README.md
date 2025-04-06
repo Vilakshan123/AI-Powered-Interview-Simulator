@@ -1,4 +1,4 @@
-# 🚀 🎤 AI-Powered Interview Simulator - Proof of Concept  
+# 🚀 AI-Powered Interview Simulator - Proof of Concept  
 *A generative AI-powered interviewer that parses resumes, asks adaptive questions, and scores candidates.*
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
